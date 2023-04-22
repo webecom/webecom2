@@ -4,3 +4,4 @@
  * Test
  */
 
+echo "Hello";
